@@ -290,6 +290,7 @@ h5{
 
 .scroll-down-mobile{
     width: 64px;
+    margin-top: 32px;
     height: 64px;
     display: flex;
     align-items: center;
