@@ -460,7 +460,7 @@ body{
     flex-direction: column;
     max-width: 100vw;
     justify-content: center;
-    background-color: #01241D;
+    background-color: #002921;
     animation-name: screentrans;
     animation-duration: 1s;
     transition-timing-function: ease-out;
