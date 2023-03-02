@@ -522,13 +522,25 @@ img{
     #services p {
         padding-left: 20px;
         padding-right: 20px;
-        margin-top: 24px;
-        font-size: 18px;
-        color: #666 !important;
+        margin-top: 52px;
+        font-size: 20px;
+        color: #222 !important;
         line-height: 32px;
         font-family: "Light";
         letter-spacing: -0.2px;
     }
+
+    .project-head{
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-top: 32px;
+        font-size: 20px;
+        color: #222 !important;
+        line-height: 32px;
+        font-family: "Light";
+        letter-spacing: -0.2px;
+    }
+
 
     .intro{
         height: 90vh;
